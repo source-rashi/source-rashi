@@ -79,6 +79,3 @@
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20,30&height=120&section=footer" width="100%"/>
-</div>
